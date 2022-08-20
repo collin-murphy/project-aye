@@ -1,0 +1,10 @@
+#############
+### NOTES ###
+#############
+
+TO START THE TEST SERVER:
+python manage.py runserver {PORT (Default 8000)}
+http://127.0.0.1:8000/
+
+TO CREATE AN APP:
+python manage.py startapp {NAME}
